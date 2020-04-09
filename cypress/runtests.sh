@@ -1,0 +1,6 @@
+#!/bin/bash
+cd ..
+echo Running tests ...
+npm install && npm test
+echo Testing complete, press enter to close ...
+read
