@@ -1,4 +1,4 @@
-# Sample1 Test Project
+# Cypress Template
 
 ## Requirements
 
